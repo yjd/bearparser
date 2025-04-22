@@ -1,6 +1,19 @@
 <map id="SectHdrsWrapper::getSecHdrAtOffset" name="SectHdrsWrapper::getSecHdrAtOffset">
-<area shape="rect" id="node1" title=" " alt="" coords="5,64,199,105"/>
-<area shape="rect" id="node2" href="$class_section_hdr_wrapper.html#a9b8a20d530aa83ead9c43b4925171d76" title=" " alt="" coords="247,5,389,47"/>
-<area shape="rect" id="node3" href="$namespacepe__util.html#a9dc8feee375f5c7288ea1221c3965dfb" title=" " alt="" coords="437,42,549,69"/>
-<area shape="rect" id="node4" href="$class_section_hdr_wrapper.html#a9dee2f275d168224c31131b56564b230" title=" " alt="" coords="247,123,389,164"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,198,129"/>
+<area shape="rect" id="Node000002" href="$class_section_hdr_wrapper.html#a9b8a20d530aa83ead9c43b4925171d76" title=" " alt="" coords="246,116,387,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,118,231,123,230,128,197,124"/>
+<area shape="rect" id="Node000003" href="$class_section_hdr_wrapper.html#a9dee2f275d168224c31131b56564b230" title=" " alt="" coords="436,59,577,99"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="198,99,421,82,421,88,198,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,113,421,102,423,107,387,118"/>
+<area shape="rect" id="Node000007" href="$class_exe_element_wrapper.html#a0bd5e125d24bc597cb6e7f720352fd5a" title=" " alt="" coords="435,124,578,165"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="388,137,420,138,420,143,387,142"/>
+<area shape="rect" id="Node000004" href="$class_section_hdr_wrapper.html#a698831115eda474980d6be3e86747ee2" title=" " alt="" coords="626,5,797,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="576,58,615,48,617,53,578,63"/>
+<area shape="rect" id="Node000005" href="$namespacepe__util.html#a2a369e52bafe749186319d717122796e" title=" " alt="" coords="648,70,775,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="577,78,632,79,632,84,577,83"/>
+<area shape="rect" id="Node000006" href="$namespacepe__util.html#a9dc8feee375f5c7288ea1221c3965dfb" title=" " alt="" coords="845,70,956,96"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="775,89,829,89,829,94,775,94"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="844,77,790,77,790,71,844,72"/>
+<area shape="rect" id="Node000008" href="$class_exe_element_wrapper.html#a087ecf5a983c1ef1e8de95b16c487616" title=" " alt="" coords="640,124,783,165"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="579,142,624,142,624,147,579,147"/>
 </map>

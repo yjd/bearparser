@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['wrappedvalue_929',['WrappedValue',['../class_wrapped_value.html',1,'']]]
+  ['tlsdirwrapper_0',['TlsDirWrapper',['../class_tls_dir_wrapper.html',1,'']]],
+  ['tlsentrywrapper_1',['TlsEntryWrapper',['../class_tls_entry_wrapper.html',1,'']]]
 ];

@@ -1,12 +1,9 @@
 var searchData=
 [
-  ['datadirentrywrapper_865',['DataDirEntryWrapper',['../class_data_dir_entry_wrapper.html',1,'']]],
-  ['datadirwrapper_866',['DataDirWrapper',['../class_data_dir_wrapper.html',1,'']]],
-  ['debugdirwrapper_867',['DebugDirWrapper',['../class_debug_dir_wrapper.html',1,'']]],
-  ['delayimpdirwrapper_868',['DelayImpDirWrapper',['../class_delay_imp_dir_wrapper.html',1,'']]],
-  ['delayimpentrywrapper_869',['DelayImpEntryWrapper',['../class_delay_imp_entry_wrapper.html',1,'']]],
-  ['delayimpfuncwrapper_870',['DelayImpFuncWrapper',['../class_delay_imp_func_wrapper.html',1,'']]],
-  ['dosexe_871',['DOSExe',['../class_d_o_s_exe.html',1,'']]],
-  ['dosexebuilder_872',['DOSExeBuilder',['../class_d_o_s_exe_builder.html',1,'']]],
-  ['doshdrwrapper_873',['DosHdrWrapper',['../class_dos_hdr_wrapper.html',1,'']]]
+  ['clrdirwrapper_0',['ClrDirWrapper',['../class_clr_dir_wrapper.html',1,'']]],
+  ['commonordinalslookup_1',['CommonOrdinalsLookup',['../class_common_ordinals_lookup.html',1,'']]],
+  ['commonordinalsmap_2',['CommonOrdinalsMap',['../class_common_ordinals_map.html',1,'']]],
+  ['commonordinalsoleaut32_3',['CommonOrdinalsOleaut32',['../class_common_ordinals_oleaut32.html',1,'']]],
+  ['commonordinalsws2_5f32_4',['CommonOrdinalsWS2_32',['../class_common_ordinals_w_s2__32.html',1,'']]],
+  ['customexception_5',['CustomException',['../class_custom_exception.html',1,'']]]
 ];

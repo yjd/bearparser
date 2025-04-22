@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['zerof_5fsize_827',['ZEROF_SIZE',['../class_tls_dir_wrapper.html#ab13e121ad448dcd394a87d0a4eadfa33a1e0da2ff344ea40f78b7829239b5ffd6',1,'TlsDirWrapper']]]
+  ['xdata_0',['Xdata',['../struct___a_r_m___e_x_c_e_p_t___r_e_c_o_r_d.html#a451dcc7ff6a88f57f69831047a93c5eb',1,'_ARM_EXCEPT_RECORD']]]
 ];

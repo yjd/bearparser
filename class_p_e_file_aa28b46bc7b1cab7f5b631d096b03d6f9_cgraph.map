@@ -1,0 +1,13 @@
+<map id="PEFile::_getLastSection" name="PEFile::_getLastSection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,166,82"/>
+<area shape="rect" id="Node000002" href="$class_p_e_file.html#a23dec5b7be4a14d6b32f40aec59f4387" title=" " alt="" coords="234,5,368,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,53,228,32,230,38,144,58"/>
+<area shape="rect" id="Node000003" href="$class_p_e_file.html#a92ee10a1b4298961e6b05448d6e8255d" title=" " alt="" coords="437,31,615,56"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="166,62,421,47,422,52,166,67"/>
+<area shape="rect" id="Node000004" href="$class_p_e_file.html#af804a3d92128bf7798a942ade3638659" title=" " alt="" coords="214,107,389,132"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="144,80,230,100,228,105,143,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,23,422,29,421,34,368,28"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="489,32,481,22,486,12,501,6,526,4,554,7,568,14,565,18,552,12,526,9,502,11,490,16,487,21,493,29"/>
+<area shape="rect" id="Node000005" href="$class_p_e_file.html#ab31182be0835a59d2ab8965edb5e6167" title=" " alt="" coords="445,107,607,132"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="389,117,429,117,429,122,389,122"/>
+</map>

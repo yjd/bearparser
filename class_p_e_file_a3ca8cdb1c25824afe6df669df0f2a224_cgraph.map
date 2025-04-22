@@ -1,0 +1,8 @@
+<map id="PEFile::_init" name="PEFile::_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,95,80"/>
+<area shape="rect" id="Node000002" href="$class_abstract_byte_buffer.html#a083856a64bf8a0682a6a7799830f0ec1" title=" " alt="" coords="159,5,295,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,54,143,43,144,48,96,59"/>
+<area shape="rect" id="Node000003" href="$class_p_e_file.html#a427a01ab3e47934a4cb7cf52befc6271" title=" " alt="" coords="143,94,311,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="96,74,153,88,152,93,95,80"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="197,95,191,86,195,76,207,70,227,68,248,70,260,77,257,81,247,75,227,73,208,75,199,79,196,85,201,92"/>
+</map>

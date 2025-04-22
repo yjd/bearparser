@@ -1,7 +1,21 @@
 <map id="SectHdrsWrapper::printSectionsMapping" name="SectHdrsWrapper::printSectionsMapping">
-<area shape="rect" id="node1" title=" " alt="" coords="5,71,212,112"/>
-<area shape="rect" id="node2" href="$class_section_hdr_wrapper.html#a9b8a20d530aa83ead9c43b4925171d76" title=" " alt="" coords="260,5,403,47"/>
-<area shape="rect" id="node4" href="$class_section_hdr_wrapper.html#a9dee2f275d168224c31131b56564b230" title=" " alt="" coords="261,71,402,112"/>
-<area shape="rect" id="node5" href="$class_section_hdr_wrapper.html#a2f952875d80e07fd3c82c54ac475f9f8" title=" " alt="" coords="261,136,402,177"/>
-<area shape="rect" id="node3" href="$namespacepe__util.html#a9dc8feee375f5c7288ea1221c3965dfb" title=" " alt="" coords="451,13,563,39"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,212,157"/>
+<area shape="rect" id="Node000002" href="$class_section_hdr_wrapper.html#a9b8a20d530aa83ead9c43b4925171d76" title=" " alt="" coords="260,116,401,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,134,244,134,244,139,212,139"/>
+<area shape="rect" id="Node000003" href="$class_section_hdr_wrapper.html#a9dee2f275d168224c31131b56564b230" title=" " alt="" coords="450,59,591,99"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="199,113,259,102,435,82,435,87,260,107,200,118"/>
+<area shape="rect" id="Node000009" href="$class_section_hdr_wrapper.html#a2f952875d80e07fd3c82c54ac475f9f8" title=" " alt="" coords="260,181,400,222"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="181,155,246,174,244,179,179,160"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,113,435,102,437,107,401,118"/>
+<area shape="rect" id="Node000007" href="$class_exe_element_wrapper.html#a0bd5e125d24bc597cb6e7f720352fd5a" title=" " alt="" coords="449,124,592,165"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="402,137,434,138,434,143,401,142"/>
+<area shape="rect" id="Node000004" href="$class_section_hdr_wrapper.html#a698831115eda474980d6be3e86747ee2" title=" " alt="" coords="640,5,811,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="590,58,629,48,631,53,592,63"/>
+<area shape="rect" id="Node000005" href="$namespacepe__util.html#a2a369e52bafe749186319d717122796e" title=" " alt="" coords="662,70,789,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="591,78,646,79,646,84,591,83"/>
+<area shape="rect" id="Node000006" href="$namespacepe__util.html#a9dc8feee375f5c7288ea1221c3965dfb" title=" " alt="" coords="859,70,970,96"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="789,89,843,89,843,94,789,94"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="858,77,804,77,804,71,858,72"/>
+<area shape="rect" id="Node000008" href="$class_exe_element_wrapper.html#a087ecf5a983c1ef1e8de95b16c487616" title=" " alt="" coords="654,124,797,165"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="593,142,638,142,638,147,593,147"/>
 </map>

@@ -1,0 +1,10 @@
+<map id="SectionHdrWrapper::wrap" name="SectionHdrWrapper::wrap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,174,82"/>
+<area shape="rect" id="Node000002" href="$class_exe_node_wrapper.html#abd74c2637211cf471d022b528654c84c" title=" " alt="" coords="222,5,377,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,53,228,33,229,38,146,58"/>
+<area shape="rect" id="Node000003" href="$class_section_hdr_wrapper.html#aa2a809639093ab771f885dbf0a1f3b3b" title=" " alt="" coords="425,78,565,118"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,72,409,89,409,95,174,78"/>
+<area shape="rect" id="Node000004" href="$class_section_hdr_wrapper.html#a3a97c0c870be0be28a7425142338a55e" title=" " alt="" coords="229,106,370,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,80,215,100,213,105,139,85"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="369,113,409,108,410,113,370,119"/>
+</map>

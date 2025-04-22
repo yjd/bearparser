@@ -1,0 +1,9 @@
+<map id="PEFile::_secHdrsEndOffset" name="PEFile::_secHdrsEndOffset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,184,56"/>
+<area shape="rect" id="Node000002" href="$class_p_e_file.html#af804a3d92128bf7798a942ade3638659" title=" " alt="" coords="232,5,407,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,31,216,27,217,32,185,36"/>
+<area shape="rect" id="Node000004" href="$class_p_e_file.html#a35ddafbeba19abd9fe72e18afad43f0b" title=" " alt="" coords="245,55,394,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,50,229,55,229,61,184,56"/>
+<area shape="rect" id="Node000003" href="$class_p_e_file.html#ab31182be0835a59d2ab8965edb5e6167" title=" " alt="" coords="455,5,617,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,16,440,16,440,21,407,21"/>
+</map>

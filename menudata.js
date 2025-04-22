@@ -58,6 +58,7 @@ var menudata={children:[
 {text:"u",url:"functions_u.html#index_u"},
 {text:"v",url:"functions_v.html#index_v"},
 {text:"w",url:"functions_w.html#index_w"},
+{text:"x",url:"functions_x.html#index_x"},
 {text:"z",url:"functions_z.html#index_z"},
 {text:"~",url:"functions_~.html#index__7E"}]},
 {text:"Functions",url:"functions_func.html",children:[
@@ -99,8 +100,8 @@ var menudata={children:[
 {text:"r",url:"functions_vars.html#index_r"},
 {text:"s",url:"functions_vars.html#index_s"},
 {text:"t",url:"functions_vars.html#index_t"},
-{text:"v",url:"functions_vars.html#index_v"},
-{text:"w",url:"functions_vars.html#index_w"}]},
+{text:"w",url:"functions_vars.html#index_w"},
+{text:"x",url:"functions_vars.html#index_x"}]},
 {text:"Enumerations",url:"functions_enum.html",children:[
 {text:"a",url:"functions_enum.html#index_a"},
 {text:"d",url:"functions_enum.html#index_d"},
@@ -134,11 +135,21 @@ var menudata={children:[
 {text:"v",url:"functions_eval_v.html#index_v"},
 {text:"w",url:"functions_eval_w.html#index_w"},
 {text:"z",url:"functions_eval_z.html#index_z"}]},
-{text:"Related Functions",url:"functions_rela.html"}]}]},
+{text:"Related Symbols",url:"functions_rela.html",children:[
+{text:"b",url:"functions_rela.html#index_b"},
+{text:"d",url:"functions_rela.html#index_d"},
+{text:"e",url:"functions_rela.html#index_e"},
+{text:"i",url:"functions_rela.html#index_i"},
+{text:"l",url:"functions_rela.html#index_l"},
+{text:"p",url:"functions_rela.html#index_p"},
+{text:"r",url:"functions_rela.html#index_r"},
+{text:"s",url:"functions_rela.html#index_s"}]}]}]},
 {text:"Files",url:"files.html",children:[
 {text:"File List",url:"files.html"},
 {text:"File Members",url:"globals.html",children:[
 {text:"All",url:"globals.html",children:[
+{text:"_",url:"globals.html#index__5F"},
+{text:"a",url:"globals.html#index_a"},
 {text:"b",url:"globals.html#index_b"},
 {text:"d",url:"globals.html#index_d"},
 {text:"f",url:"globals.html#index_f"},
@@ -147,6 +158,7 @@ var menudata={children:[
 {text:"l",url:"globals.html#index_l"},
 {text:"m",url:"globals.html#index_m"},
 {text:"o",url:"globals.html#index_o"},
+{text:"p",url:"globals.html#index_p"},
 {text:"r",url:"globals.html#index_r"},
 {text:"s",url:"globals.html#index_s"},
 {text:"t",url:"globals.html#index_t"},

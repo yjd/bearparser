@@ -1,0 +1,9 @@
+<map id="PEFile::canResize" name="PEFile::canResize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,131,80"/>
+<area shape="rect" id="Node000002" href="$class_executable.html#a862ee23abe249ba557c740f2d2c246c5" title=" " alt="" coords="183,5,342,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,51,193,33,195,38,122,57"/>
+<area shape="rect" id="Node000003" href="$class_p_e_file.html#aca1ded6302c26c4d25cd1f2dcedf737b" title=" " alt="" coords="188,55,337,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,65,172,65,172,70,131,70"/>
+<area shape="rect" id="Node000004" href="$class_p_e_file.html#a2591ddf9ec68450e67c875625b190821" title=" " alt="" coords="179,104,346,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,78,195,97,193,102,121,84"/>
+</map>

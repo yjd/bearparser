@@ -1,6 +1,8 @@
 <map id="PEFile::wrap" name="PEFile::wrap">
-<area shape="rect" id="node1" title=" " alt="" coords="5,42,100,69"/>
-<area shape="rect" id="node2" href="$class_p_e_file.html#aa84f5074e8e5f9c6b29becd0ddfd523c" title=" " alt="" coords="148,42,297,69"/>
-<area shape="rect" id="node3" href="$class_exe_wrappers_container.html#a54af5aa313aaa568653fb32395a80195" title=" " alt="" coords="345,5,499,47"/>
-<area shape="rect" id="node4" href="$class_p_e_file.html#a70787fd96ff91491b6926614ed41ef17" title=" " alt="" coords="353,71,491,98"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,99,80"/>
+<area shape="rect" id="Node000002" href="$class_p_e_file.html#a90147e8c963e893d6a98ad0de28770d8" title=" " alt="" coords="158,5,278,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,51,157,33,158,39,99,57"/>
+<area shape="rect" id="Node000003" href="$class_p_e_file.html#a4b054b54b98eb26bda27760d876622b1" title=" " alt="" coords="147,55,290,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,73,131,74,131,79,99,78"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="147,61,114,61,114,56,147,56"/>
 </map>
